@@ -30,7 +30,7 @@ const projects = [
   {
     title: "Sky ready - flight booking web application",
     description:
-      "A flgiht booking web application, which allows users to select the flight seats and filter the based on class, and calculate the charge of seats based on availability and class(economic, first class, second class)",
+      "A flight booking web application, which allows users to select the flight seats and filter the based on class, and calculate the charge of seats based on availability and class(economic, first class, second class)",
     tags: ["React", "Ruby on rails", "PostgreSQL"],
     github: "https://github.com/anjanibarlapati/skyready-frontend",
     emoji: "🛫",
@@ -38,7 +38,7 @@ const projects = [
   {
     title: "Pet Buddy - mobile application for pet management",
     description:
-      "A mobile app built for the management of pets, which allows to create and manage profiles for pets, and easily store the pets data at one place",
+      "A mobile app built for the management of pets, which allows to create and manage profiles for pets, and easily store the pets data",
     tags: ["React Native", "CSS", "PostgreSQL"],
     github: "https://github.com/durgamkeerthana/pet-buddy-mobile-application",
 
